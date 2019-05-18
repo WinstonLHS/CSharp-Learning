@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive\Documents\GitHub\CSharp\CSharp-Learning\FirstConsoleApp\myapp\bin\Debug\netcoreapp2.2\myapp.deps.json
+C:\Users\User\OneDrive\Documents\GitHub\CSharp\CSharp-Learning\FirstConsoleApp\myapp\bin\Debug\netcoreapp2.2\myapp.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\GitHub\CSharp\CSharp-Learning\FirstConsoleApp\myapp\bin\Debug\netcoreapp2.2\myapp.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Documents\GitHub\CSharp\CSharp-Learning\FirstConsoleApp\myapp\bin\Debug\netcoreapp2.2\myapp.dll
+C:\Users\User\OneDrive\Documents\GitHub\CSharp\CSharp-Learning\FirstConsoleApp\myapp\bin\Debug\netcoreapp2.2\myapp.pdb
+C:\Users\User\OneDrive\Documents\GitHub\CSharp\CSharp-Learning\FirstConsoleApp\myapp\obj\Debug\netcoreapp2.2\myapp.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\CSharp\CSharp-Learning\FirstConsoleApp\myapp\obj\Debug\netcoreapp2.2\myapp.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\CSharp\CSharp-Learning\FirstConsoleApp\myapp\obj\Debug\netcoreapp2.2\myapp.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\CSharp\CSharp-Learning\FirstConsoleApp\myapp\obj\Debug\netcoreapp2.2\myapp.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\GitHub\CSharp\CSharp-Learning\FirstConsoleApp\myapp\obj\Debug\netcoreapp2.2\myapp.dll
+C:\Users\User\OneDrive\Documents\GitHub\CSharp\CSharp-Learning\FirstConsoleApp\myapp\obj\Debug\netcoreapp2.2\myapp.pdb
